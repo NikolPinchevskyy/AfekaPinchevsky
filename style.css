@@ -1,0 +1,40 @@
+body {
+    background-color: #bdb9a3;
+    color: #97876c;
+    font-family: Arial;
+    font-size: 20px; 
+}
+
+h1 {
+    color: #1e5674;
+    text-align: center;
+}
+
+a {
+    color: #911a69;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    border: 2px solid #1e5674;
+    background-color: transparent; 
+
+td {
+    padding: 10px;
+    background-color: transparent;
+}
+
+img {
+    width: 300px;   
+    height: auto;   
+    border: 2px solid #1e5674;
+    display: block;
+    margin: auto;
+}
